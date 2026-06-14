@@ -153,7 +153,7 @@ For the convenience of evaluators, the repository contains verified outputs unde
 ---
 
 ## 🎥 Walkthrough Video Demo
-- **Evaluator Video Demo (Loom/YouTube Placeholder)**: [Click here to watch the Trimr Application Demonstration Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) *(A full automated walkthrough recording is also stored locally at [sample_outputs/trimr_app_demo.webp](file:///d:/trimr/sample_outputs/trimr_app_demo.webp))*
+- **Evaluator Video Demo (Loom/YouTube)**: [Click here to watch the Trimr Application Demonstration Video](https://youtu.be/3zAufHUw1Eo?si=NkxwFSSQnYCWGUmJ) *(A full automated walkthrough recording is also stored locally at [sample_outputs/trimr_app_demo.webp](file:///d:/trimr/sample_outputs/trimr_app_demo.webp))*
 
 ---
 This project is a part of a hackathon run by https://katomaran.com
