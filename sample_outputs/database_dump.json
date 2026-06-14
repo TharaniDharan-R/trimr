@@ -1,0 +1,179 @@
+{
+  "timestamp": "2026-06-14T04:48:30.705Z",
+  "sample_user": {
+    "_id": "6a2e31894fc8d07363013504",
+    "name": "John Doe",
+    "email": "demo@trimr.com",
+    "createdAt": "2026-06-14T04:43:53.615Z",
+    "__v": 0
+  },
+  "sample_urls": [
+    {
+      "_id": "6a2e31894fc8d07363013507",
+      "user": "6a2e31894fc8d07363013504",
+      "originalUrl": "https://github.com/facebook/react",
+      "title": "React GitHub Repository",
+      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "shortCode": "react-repo",
+      "customAlias": "react-repo",
+      "clickCount": 30,
+      "visits": 30,
+      "qrCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJQAAACUCAYAAAB1PADUAAAAAklEQVR4AewaftIAAATHSURBVO3BQY4cSRIEQdNA/f/Lujz6KYBEejXZsyaCf6RqyUnVopOqRSdVi06qFp1ULTqpWnRSteikatFJ1aKTqkUnVYtOqhadVC06qVp0UrXok5eA/CQ1E5A31ExAnlDzBJAbNROQn6TmjZOqRSdVi06qFn2yTM0mIG+omYA8oeYGyKTmRs0bajYB2XRSteikatFJ1aJPvgzIE2qeUDMBmYA8oeYnAZnUPAHkCTXfdFK16KRq0UnVok9+OSCTmgnIpOYJIDdqJiCTmgnIpOa/5KRq0UnVopOqRZ/8cmp+kpoJyBtAJjW/2UnVopOqRSdViz75MjU/CcgTQG7UTEBu1ExAbtS8oeZfclK16KRq0UnVok+WAflJQCY1E5An1ExAJjUTkCfUTEAmNTdA/mUnVYtOqhadVC365CU1v5maGzUTkBsgm9T8JidVi06qFp1ULfrkJSCTmgnIjZoJyBNqbtRMQCY1E5BJzY2aCcgNkCeATGpugExqJiA3at44qVp0UrXopGrRJ8uAvKHmBsgNkBs1E5AbIE+omYDcqJmA3AC5UXOjZgKy6aRq0UnVopOqRZ/8MDVPAJnUTEAmNROQN9TcALlRcwNkUjMBuVFzA+RGzaaTqkUnVYtOqhbhH1kE5A01m4BMajYBmdRMQG7U3AB5Q80NkEnNGydVi06qFp1ULcI/8gKQJ9RMQJ5QMwF5Qs0EZFIzAblRMwGZ1NwAmdS8AeRGzTedVC06qVp0UrXok2VqNql5Q82NmifUTECeAPIEkEnNjZobIDdq3jipWnRSteikatEnL6l5Q80NkEnNpGYCMgGZ1ExAbtRMQDapmYBMaiYgk5oJyN90UrXopGrRSdUi/CMvAJnUTEBu1DwB5JvUTEAmNROQSc0mIJOaCcik5gbIpGbTSdWik6pFJ1WLPlkGZBOQSc0E5EbNBGRS8wSQSc0NkEnNDZBJzQTkX3ZSteikatFJ1aJPXlIzAZnU3ACZ1ExqnlBzo+YNNROQSc1PUnMD5CedVC06qVp0UrXok5eATGo2AXkDyKRmAvIEkCfU3ADZBORGzTedVC06qVp0UrUI/8gXAXlCzSYgk5obIJvUPAHkCTU3QCY133RSteikatFJ1aJPlgGZ1DwB5Ak1E5BJzQTkbwKyCci/5KRq0UnVopOqRfhHfjEgk5obIJOaN4BsUvMEkE1q3jipWnRSteikatEnLwH5SWpugExqJjUTkEnNBGRSM6mZgGwCMql5Qs0EZFKz6aRq0UnVopOqRZ8sU7MJyBNqJiBPAHkCyKRmAvKGmifU3KiZgExq3jipWnRSteikatEnXwbkCTVPqJmATGo2AbkBMqm5ATIB2QTkRs2mk6pFJ1WLTqoWffLLAZnU3ACZ1HwTkEnNpGYCMqmZgNwAmdTcAJnUvHFSteikatFJ1aJP/s+omYDcqJnU3ACZ1ExANqmZgPxNJ1WLTqoWnVQt+uTL1HyTmieATGpugDyhZgLyhJpvAjKp2XRSteikatFJ1aJPlgH5SUAmNROQSc0E5Ak1b6iZgDyhZgIyqfmbTqoWnVQtOqlahH+kaslJ1aKTqkUnVYtOqhadVC06qVp0UrXopGrRSdWik6pFJ1WLTqoWnVQtOqladFK16H+K/DA8Z94L0AAAAABJRU5ErkJggg==",
+      "passwordProtected": false,
+      "status": "Active",
+      "isPublicStats": true,
+      "createdAt": "2026-06-14T04:43:53.792Z",
+      "__v": 0,
+      "lastVisited": "2026-06-13T12:58:53.960Z"
+    },
+    {
+      "_id": "6a2e31894fc8d07363013509",
+      "user": "6a2e31894fc8d07363013504",
+      "originalUrl": "https://news.ycombinator.com",
+      "title": "Hacker News",
+      "description": "Hacker News is a social news website focusing on computer science and entrepreneurship.",
+      "shortCode": "hn",
+      "customAlias": "hn",
+      "clickCount": 25,
+      "visits": 25,
+      "qrCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAACECAYAAABRRIOnAAAAAklEQVR4AewaftIAAAOdSURBVO3BQY4kRwIDQWeg/v9lXx104CmARFa3Zgc0i/9g5l+HmXKYKYeZcpgph5lymCmHmXKYKYeZcpgph5lymCmHmXKYKYeZ8uGlJPwmlTeScKPSktBUnkjCb1J54zBTDjPlMFM+fJnKNyXhiSQ0labSkvBEEprKEyrflIRvOsyUw0w5zJQPPywJT6g8kYTfpPJNSXhC5ScdZsphphxmyoe/jEpLwhNJaCo3SWgq/88OM+UwUw4z5cNfTqUloancJKGpNJW/yWGmHGbKYaZ8+GEqvykJTeUmCU2lqbQkNJU3VP4kh5lymCmHmfLhy5LwX1JpSWgqLQk3SWgqLQlN5SYJf7LDTDnMlMNM+fCSyp9M5Q2VloQnVP6fHGbKYaYcZsqHl5LQVFoSvkmlqbQkNJUblZaEpvJGEr5J5ScdZsphphxmyoc/nEpLQlO5ScKNSlNpSWgqLQk3Ki0JTeWJJDSVbzrMlMNMOcyUDy+pPKHSknCThKbyhMpNEppKU2lJeCIJN0m4UblJQlN54zBTDjPlMFM+vJSEptJU3lBpSbhRuUnCGyo3SWgqLQk3KjcqLQnfdJgph5lymCkfviwJTeVGpSWhJaGptCTcJOFGpSWhqbQkPJGEptKScJOE33SYKYeZcpgpH75M5SYJTeVG5Ykk3Ki0JDSVloSm0pLQVG6S0FRaEppKS0JT+abDTDnMlMNM+fCHUWlJaCpNpSXhCZUblZaEJ5LQVL4pCU3ljcNMOcyUw0yJ/+CFJDSVJ5LQVH5TEprKE0n4SSo3SWgqbxxmymGmHGbKhz9MEm5UWhJuVJ5IQlP5TSotCU2lqXzTYaYcZsphpnx4SeUNlW9SeUKlJeEmCTcqTyShJeG/dJgph5lymCkfXkrCb1JpKjdJeCMJTaUl4SYJTeWNJNyovHGYKYeZcpgpH75M5ZuScJOEG5WWhKZyk4Q3VN5QuUnCNx1mymGmHGbKhx+WhCdUflMSnkjCTRK+KQlNpal802GmHGbKYaZ8+Muo3Ki0JNyotCQ0lZaEG5WWhKbSktCScKPyxmGmHGbKYaZ8+Mskoak8ofJEEprKTRKayhMqLQnfdJgph5lymCkffpjKT1JpSbhJQlP5piQ0lZsk3Kj8psNMOcyUw0z58GVJ+E1JeCMJT6g8kYQ3kvCbDjPlMFMOMyX+g5l/HWbKYaYcZsphphxmymGmHGbKYaYcZsphphxmymGmHGbKYaYcZsr/AHuBnxUHXQDDAAAAAElFTkSuQmCC",
+      "passwordProtected": false,
+      "status": "Active",
+      "isPublicStats": true,
+      "createdAt": "2026-06-14T04:43:53.805Z",
+      "__v": 0,
+      "lastVisited": "2026-06-14T04:47:59.306Z"
+    },
+    {
+      "_id": "6a2e31894fc8d0736301350b",
+      "user": "6a2e31894fc8d07363013504",
+      "originalUrl": "https://tailwindcss.com",
+      "title": "Tailwind CSS - Rapidly build modern websites",
+      "description": "A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90.",
+      "shortCode": "tw-css",
+      "customAlias": "tw-css",
+      "clickCount": 40,
+      "visits": 40,
+      "qrCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJQAAACUCAYAAAB1PADUAAAAAklEQVR4AewaftIAAATcSURBVO3BQW4kSRIEQdNA/f/Lujz6KYBEenGbAxPBH6laclK16KRq0UnVopOqRSdVi06qFp1ULTqpWnRSteikatFJ1aKTqkUnVYtOqhadVC365CUgv0nNBOQJNX8JkN+k5o2TqkUnVYtOqhZ9skzNJiA3am6ATEAmNW8AmdTcAJnUPKFmE5BNJ1WLTqoWnVQt+uTLgDyh5g0gk5obIDdqJiA3QCY1N0AmNU8AeULNN51ULTqpWnRSteiTPw7IpGYCMqmZ1NwAeULNBORGzX/JSdWik6pFJ1WLPvmPATKpmYC8oWYCcqPmBsik5i87qVp0UrXopGrRJ1+m5jepuVFzA+QGyKRmAjKpmYBsUvMvOaladFK16KRq0SfLgPxLgExqJiCTmgnIpGYCMqmZgExqJiBPAPmXnVQtOqladFK16JOX1PzL1ExANqmZgDyh5kbNX3JSteikatFJ1SL8kReATGqeADKpmYA8oeYJIP9PaiYgm9TcAJnUvHFSteikatFJ1aJPXlLzBJBJzQRkUjMBmdRMQG7U3Kh5A8iNmgnIpGYC8gaQ33RSteikatFJ1aJPlgG5UTMBmdRMQCY1E5BNQJ5Q84aaCcikZgIyqXkDyKaTqkUnVYtOqhZ9skzNDZAbIJOaCcgTaiYgT6iZgExAvgnIpGYCMqm5AfJNJ1WLTqoWnVQt+uSXqZmA3ACZ1ExAJjUTkEnNBOQJNTdAJjUTkEnNjZobNW+o2XRSteikatFJ1SL8kReATGpugNyouQEyqZmAPKFmAnKjZgIyqZmATGomIJOaCcgbaiYgN2reOKladFK16KRq0SdfBuRGzQTkCSCb1GxSc6PmRs0bQCY1E5BNJ1WLTqoWnVQt+uQlNd+kZgJyo2YTkEnNpGYCcqPmDSCTmhs1E5BvOqladFK16KRqEf7IC0AmNTdAJjUTkBs1E5AbNTdAvknNBGRSMwGZ1DwBZFIzAZnUbDqpWnRSteikahH+yAtAbtRMQG7U3AB5Q82/BMgmNTdAbtS8cVK16KRq0UnVok9eUnMD5Akgb6i5ATKpmYA8oeY3qZmATEBu1ExANp1ULTqpWnRSteiT/zM1E5BJzQ2QCciNmifUTEAmIE+ouVFzA2RS8wSQbzqpWnRSteikahH+yAtANqmZgNyomYBMaiYgk5oJyKTmCSCTmgnIb1JzA2RS88ZJ1aKTqkUnVYvwR/4wIE+ouQFyo2YCMql5Asik5gkgk5ongExq3jipWnRSteikatEnLwH5TWreAHKj5puAPAFkUnMD5EbNN51ULTqpWnRSteiTZWo2AblRcwPkDSCTmknNBORGzQTkRs0baiYg33RSteikatFJ1aJPvgzIE2qeAHKj5gkgN0Bu1ExAJiA3QP6yk6pFJ1WLTqoWffLHqbkBMqmZgNyoeQLIE2omIJOab1Kz6aRq0UnVopOqRZ/8x6m5UXMD5EbNpGYCMqmZgExqfhOQSc0bJ1WLTqoWnVQt+uTL1PwmIJOaN9RMQCYgk5pJzQTkCSCTmgnIjZrfdFK16KRq0UnVok+WAflNQG6A3Ki5ATKp+U1qJiCTmgnIE2o2nVQtOqladFK1CH+kaslJ1aKTqkUnVYtOqhadVC06qVp0UrXopGrRSdWik6pFJ1WLTqoWnVQtOqladFK16H+TxUA+DQM4HgAAAABJRU5ErkJggg==",
+      "passwordProtected": false,
+      "status": "Active",
+      "isPublicStats": true,
+      "createdAt": "2026-06-14T04:43:53.816Z",
+      "__v": 0,
+      "lastVisited": "2026-06-13T17:12:54.051Z"
+    },
+    {
+      "_id": "6a2e31894fc8d0736301350d",
+      "user": "6a2e31894fc8d07363013504",
+      "originalUrl": "https://recharts.org/en-US",
+      "title": "Recharts - A composable charting library",
+      "description": "Redefined chart library built with React and D3.",
+      "shortCode": "recharts",
+      "customAlias": "recharts",
+      "clickCount": 32,
+      "visits": 32,
+      "qrCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJQAAACUCAYAAAB1PADUAAAAAklEQVR4AewaftIAAATGSURBVO3BQY4jRxAEwfAC//9l1x7zVECjk6PRKszwj1QtOaladFK16KRq0UnVopOqRSdVi06qFp1ULTqpWnRSteikatFJ1aKTqkUnVYtOqhZ98hKQn6TmCSCTmhsgT6h5AsiNmgnIT1LzxknVopOqRSdViz5ZpmYTkDfUfBOQJ9RMQJ5QswnIppOqRSdVi06qFn3yZUCeUPMEkCfUTEBu1ExAJjU3QCYgm4A8oeabTqoWnVQtOqla9MlfRs0baiYgTwCZ1ExAJjV/k5OqRSdVi06qFn3ylwMyqXlCzQRkAjKpmYD8n5xULTqpWnRSteiTL1Pzb1Jzo+YJNU+o+SY1v8lJ1aKTqkUnVYs+WQbkNwEyqZmATGomIJOaCcikZgIyqZmATGpugPxmJ1WLTqoWnVQt+uQlNb8JkBsgk5pvUnOj5kbNf8lJ1aKTqkUnVYvwj7wAZFIzAdmk5gbIpOYGyKTmCSA3am6ATGomIJvUfNNJ1aKTqkUnVYs+eUnNE2omIDdqJiA3ap5QMwF5Qs0NkBs1E5A31DwBZFLzxknVopOqRSdViz55CciNmgnIjZoJyBtAJjWbgDyh5g01E5A31Gw6qVp0UrXopGrRJz9MzQ2QSc03AblRMwGZ1HyTmgnIpOYJIJOaTSdVi06qFp1ULfrkJTU3QJ5QMwGZ1ExAJjU3QG7UTECeADKpuQEyqblRcwPkRs03nVQtOqladFK1CP/IFwG5UTMBmdRMQCY1TwCZ1DwBZJOaCcgbaiYgk5oJyKTmjZOqRSdVi06qFuEf+UWAbFLzbwIyqXkCyBNqJiCTmm86qVp0UrXopGrRJy8BmdRMQCY1T6iZgExqboBMap4AMqmZgExqvknNBORGzQRkUrPppGrRSdWik6pF+Ed+EJA31ExAJjU/CciNmhsgk5pNQCY133RSteikatFJ1aJPXgIyqZmATGpugExqJiCTmieATGomIE+ouQFyo+YGyDcBmdS8cVK16KRq0UnVok9+OSA3QG7UTGo2AZnU3KiZgNyomYBMaiYgT6jZdFK16KRq0UnVok9+OTUTkBs1E5BJzRNqJiCTmhs1T6iZgExqJiCTmhsgk5pNJ1WLTqoWnVQt+uTL1ExAbtRMQG7UTEBugNyomYA8AWRS8wSQGyBPALkBMql546Rq0UnVopOqRfhH/sOATGomIDdqngByo+YGyI2aJ4BsUvPGSdWik6pFJ1WLPnkJyE9SM6n5SWpugGwCMql5Q803nVQtOqladFK16JNlajYBuQEyqXkCyKRmAjKpmYBMaiYgk5oJyI2aN9RMQG7UvHFSteikatFJ1aJPvgzIE2reADKpmYBMam7U3KiZgExqngDyhpoJyKRmArLppGrRSdWik6pFn/xl1NyouQHyhJpJzRtq3gDyhJpNJ1WLTqoWnVQt+uR/DsikZgJyA2RSswnIE2pugExqNp1ULTqpWnRSteiTL1PzTWpugGxS8wSQN9RMQCY1E5BJzU86qVp0UrXopGrRJ8uA/CQgN2omIDdAboA8oeYJIJOaJ9RMQCY133RSteikatFJ1SL8I1VLTqoWnVQtOqladFK16KRq0UnVopOqRSdVi06qFp1ULTqpWnRSteikatFJ1aKTqkX/AFVSPxgv+9DKAAAAAElFTkSuQmCC",
+      "passwordProtected": false,
+      "status": "Active",
+      "isPublicStats": true,
+      "createdAt": "2026-06-14T04:43:53.826Z",
+      "__v": 0,
+      "lastVisited": "2026-06-14T02:43:54.052Z"
+    },
+    {
+      "_id": "6a2e31894fc8d0736301350f",
+      "user": "6a2e31894fc8d07363013504",
+      "originalUrl": "https://this-does-not-exist-1234567.com/broken-page",
+      "title": "Unreachable Domain",
+      "description": "Simulating a broken target link to demonstrate our health monitoring badge.",
+      "shortCode": "broken-link",
+      "customAlias": "broken-link",
+      "clickCount": 24,
+      "visits": 24,
+      "qrCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJQAAACUCAYAAAB1PADUAAAAAklEQVR4AewaftIAAATmSURBVO3BQY4cSRIEQdNA/f/Lun30UwCJ9OohuSaCP1K15KRq0UnVopOqRSdVi06qFp1ULTqpWnRSteikatFJ1aKTqkUnVYtOqhadVC06qVr0yUtAfpOaCcik5g0gN2omIJOaCcik5gkgv0nNGydVi06qFp1ULfpkmZpNQG7UTEBu1LwBZFIzAbkBMql5Qs0mIJtOqhadVC06qVr0yZcBeULNJjUTkBs1E5BJzRNqJiATkEnNE0CeUPNNJ1WLTqoWnVQt+uQvB+QNNTdqnlAzAblR8y85qVp0UrXopGrRJ/8YNTdqfpOaGyCTmr/ZSdWik6pFJ1WLPvkyNb8JyKTmm4D8l9T8SU6qFp1ULTqpWvTJMiD/JTUTkEnNBGRSMwGZ1NyomYBMaiYgTwD5k51ULTqpWnRStQh/5C8GZFLzBJAbNROQJ9T8PzmpWnRSteikatEnLwGZ1DwBZFIzAdkEZFIzAblRcwPkBsikZgKySc0NkEnNGydVi06qFp1ULcIfeQHIpGYCMqm5ATKpuQFyo+YGyBNqJiBPqJmATGomIL9JzRsnVYtOqhadVC36ZBmQSc0E5Akgk5pJzRNAJjWb1ExAbtRMQCY1E5BJzRtANp1ULTqpWnRSteiTZWpu1NwAmdRsUjMBmdRMQCY1k5oJyCYgk5oJyKTmBsg3nVQtOqladFK16JNlQJ5QM6mZgExqngAyqbkBcgNkUnOjZgIyqblRc6PmDTWbTqoWnVQtOqla9MkyNU8AmdRMam6ATGomNROQGzWbgExqJiCTmgnIG2pugExq3jipWnRSteikahH+yC8CcqNmAnKjZgLyhJoJyBNq/mRAJjUTkEnNGydVi06qFp1ULcIfWQRkUnMD5EbNBORGzQRkUnMDZFJzA+QJNW8AmdQ8AeRGzRsnVYtOqhadVC36ZJmaTUAmNW8AmdQ8AWRSMwGZ1ExAJjUTkEnNpOYGyKTmRs2mk6pFJ1WLTqoWffISkBs1E5AbNU8AmdRsAnIDZFIzAZnUTEBugDyh5gkgk5o3TqoWnVQtOqla9MlLam6ATGqeAHKj5kbNBORGzQ2QGyDfpGYCMgG5UTMB2XRSteikatFJ1aJPvkzNDZAbNTdAJjUTkEnNE0AmNTdA3lBzA2RS8wSQbzqpWnRSteikahH+yAtAbtRMQN5QcwNkUjMBmdRMQJ5QMwGZ1ExAfpOaGyCTmjdOqhadVC06qVqEP/IXAzKpmYBMaiYgk5obIG+omYBMap4AMql5Asik5o2TqkUnVYtOqhZ98hKQ36TmDSCTmgnIE2pugExAngAyqbkBcqPmm06qFp1ULTqpWvTJMjWbgNyoeQPIjZoJyATkRs0NkBs1b6j5TSdVi06qFp1ULfrky4A8oeYJIG+omYA8oWYCMgF5AshvUrPppGrRSdWik6pFn/zl1NwAeQPIDZA31ExAJjXfBGRS88ZJ1aKTqkUnVYs++ccAuVHzhJoJyBtqJiCTmm8C8k0nVYtOqhadVC365MvU/EmATGomNROQGzUTkBsgTwCZ1ExAbtT8ppOqRSdVi06qFn2yDMhvAnKj5gkgm9RMQJ5QMwGZ1ExAnlCz6aRq0UnVopOqRfgjVUtOqhadVC06qVp0UrXopGrRSdWik6pFJ1WLTqoWnVQtOqladFK16KRq0UnVopOqRf8DsTFMNSzDWPgAAAAASUVORK5CYII=",
+      "passwordProtected": false,
+      "status": "Broken",
+      "isPublicStats": true,
+      "createdAt": "2026-06-14T04:43:53.834Z",
+      "__v": 0,
+      "lastVisited": "2026-06-14T01:09:54.022Z"
+    }
+  ],
+  "sample_analytics": [
+    {
+      "_id": "6a2e31894fc8d07363013511",
+      "url": {
+        "_id": "6a2e31894fc8d0736301350d",
+        "originalUrl": "https://recharts.org/en-US",
+        "shortCode": "recharts"
+      },
+      "timestamp": "2026-06-13T15:50:53.838Z",
+      "ip": "192.168.1.1",
+      "browser": "Safari Mobile",
+      "device": "Mobile",
+      "os": "Android",
+      "referer": "GitHub",
+      "__v": 0
+    },
+    {
+      "_id": "6a2e31894fc8d07363013513",
+      "url": {
+        "_id": "6a2e31894fc8d07363013509",
+        "originalUrl": "https://news.ycombinator.com",
+        "shortCode": "hn"
+      },
+      "timestamp": "2026-06-11T02:51:53.844Z",
+      "ip": "8.8.8.8",
+      "browser": "Safari Mobile",
+      "device": "Mobile",
+      "os": "macOS",
+      "referer": "Twitter/X",
+      "__v": 0
+    },
+    {
+      "_id": "6a2e31894fc8d07363013515",
+      "url": {
+        "_id": "6a2e31894fc8d07363013507",
+        "originalUrl": "https://github.com/facebook/react",
+        "shortCode": "react-repo"
+      },
+      "timestamp": "2026-06-08T04:07:53.846Z",
+      "ip": "64.233.160.0",
+      "browser": "Chrome Mobile",
+      "device": "Desktop",
+      "os": "iOS",
+      "referer": "LinkedIn",
+      "__v": 0
+    },
+    {
+      "_id": "6a2e31894fc8d07363013517",
+      "url": {
+        "_id": "6a2e31894fc8d07363013509",
+        "originalUrl": "https://news.ycombinator.com",
+        "shortCode": "hn"
+      },
+      "timestamp": "2026-06-12T07:38:53.849Z",
+      "ip": "8.8.8.8",
+      "browser": "Firefox",
+      "device": "Tablet",
+      "os": "Android",
+      "referer": "LinkedIn",
+      "__v": 0
+    },
+    {
+      "_id": "6a2e31894fc8d07363013519",
+      "url": {
+        "_id": "6a2e31894fc8d0736301350d",
+        "originalUrl": "https://recharts.org/en-US",
+        "shortCode": "recharts"
+      },
+      "timestamp": "2026-06-11T00:03:53.851Z",
+      "ip": "172.56.21.89",
+      "browser": "Chrome",
+      "device": "Desktop",
+      "os": "Linux",
+      "referer": "HackerNews",
+      "__v": 0
+    }
+  ]
+}
